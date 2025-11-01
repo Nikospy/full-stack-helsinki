@@ -1,0 +1,23 @@
+{
+  "name": "full-stack-open-submissions",
+  "version": "1.0.0",
+  "description": "University of Helsinki Full Stack Open course submissions",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fullstack",
+    "react",
+    "nodejs",
+    "mongodb",
+    "graphql",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5"
+  }
+}
