@@ -47,3 +47,7 @@ Thumbs.db
 # Temporary files
 tmp/
 temp/
+
+# Local files
+README.md
+.github/copilot-instructions.md
